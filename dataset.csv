@@ -1,0 +1,17 @@
+province;temp;source
+Minho;14.2;https://en.climate-data.org/europe/portugal/melgaco/melgaco-7025/
+Alentejano/Alentejo;14.5;https://en.climate-data.org/europe/portugal/alentejo/alentejo-632872/
+Trás-os-Montes;14.7;https://en.climate-data.org/europe/portugal/mirandela/mirandela-6935/
+Beira Interior;15.4;https://nl.climate-data.org/europa/portugal/castelo-branco/castelo-branco-4315/
+Dão/Terras do Dão;15.5;https://en.climate-data.org/europe/portugal/santa-comba-dao/santa-comba-dao-6892/
+Bairrada/Beira Atlantico;15.6;https://en.climate-data.org/europe/portugal/anadia/anadia-6902/
+Douro/Duriense;15.7;https://en.climate-data.org/europe/portugal/pinhao/pinhao-489384/
+Obidos;15.7;https://en.climate-data.org/europe/portugal/obidos/obidos-882337/
+Beiras;16.1;https://nl.climate-data.org/europa/portugal/coimbra/coimbra-160/
+Estremadura/Lisboa;16.1 ;https://en.climate-data.org/europe/portugal/bucelas/bucelas-566046/
+Alenquer;16.3;https://en.climate-data.org/eropa/portugal/alenquer/alenquer-55165/?amp=true
+palmela ;16.5;https://en.climate-data.org/europe/portugal/palmela/palmela-54570/
+Ribatejano/Ribatejo/tejo;16.6;https://en.climate-data.org/europe/portugal/chamusca/chamusca-7090/
+Península de Setúbal/Setubal;17.1;https://en.climate-data.org/europe/portugal/setubal/setubal-137/
+Algarve/faro;17.2;https://en.climate-data.org/europe/portugal/faro/faro-142/
+Portugal/Portuguese Table Wine/Table wine/Vinho da Mesa/Vinho Licoroso/Vinho Verde;x;x
